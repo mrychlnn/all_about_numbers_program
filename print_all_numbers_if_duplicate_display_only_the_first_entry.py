@@ -10,3 +10,7 @@ for i in range(10):
     numbers.append(num)
 
 # print all numbers if duplicate display only the 1st entry
+for num in numbers:
+    if num not in seen:
+        print(num, end=" ")
+        seen.add(num)
