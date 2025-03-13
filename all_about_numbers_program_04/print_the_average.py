@@ -1,4 +1,4 @@
-# initizialize an empty list
+# initialize an empty list
 numbers = []
 
 # input numbers until the users input is invalid (anything non-numeric)
