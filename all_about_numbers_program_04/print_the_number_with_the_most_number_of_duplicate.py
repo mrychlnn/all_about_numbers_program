@@ -1,5 +1,6 @@
 # initialize a list
 numbers = []
+
 # input numbers until the users input is invalid (anything non-numeric)
 while True:
     user_input = input("Enter a number (anything non-numeric to stop): ")
